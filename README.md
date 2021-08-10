@@ -1,3 +1,3 @@
-# Por favor faça um Fork desse projeto!
+# Projeto referente ao desafio do Mercado Livre.
 
-## Está em dúvida de como fazer um Fork? Não tem problema! [Aqui tem uma explicação do que entendemos que você deve considerar!](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
+##Fiz uma confusão e acabei commitando tudo [neste outro repositório](https://github.com/alison-a-mota/desafiomercadolivre)
